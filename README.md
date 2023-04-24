@@ -1,4 +1,6 @@
-# co5634df5a3f520aac3bd2783
+# Excited to learn React.JS
+
+This was the first React project I did in Scrimba React Course
 
 Quick start:
 
